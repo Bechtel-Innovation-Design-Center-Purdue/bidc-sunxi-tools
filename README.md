@@ -24,3 +24,7 @@ gcc, g++, make, pkg-config, bison, flex, swig, zlib-devel, libusb1.0, libusb1.0-
 # Helpful scripts
 
 `./flash_orangepi_zero.sh` - flashes, reads and compares an image file. Image file hardcoded to spi_orangepi-zero.img
+
+# Thanks
+ - Andrei Aldea for collating, testing and developing the initial use of OrangePi hardware
+ - Matthew Swabey for documentation, script deveopment and improvments for operations
